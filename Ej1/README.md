@@ -7,6 +7,7 @@ Ejercicios para entregar - 2022, 2do cuatrimestre
 ## Preguntas
 
 1. ¿Qué crítica le harías al protocolo de #estaHerido y #noEstaHerido? (en vez de tener solo el mensaje #estaHerido y hacer “#estaHerido not” para saber la negación)
+
     - Actualmente la diferencia entre los dos mensajes mencionados es irrelevante a corto plazo, y no cumple con el objetivo de tener mensajes innecesarios, pero a medio o largo plazo podria tener más relevancia al derivar la responsabilidad a esos mensajes por separado.
 
 <br>
