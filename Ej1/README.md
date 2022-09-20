@@ -21,5 +21,5 @@ Ejercicios para entregar - 2022, 2do cuatrimestre
 
 3. ¿Cómo modelaron el resultado de haber desarrollado un combate? ¿qué opciones consideraron y por qué se quedaron con la que entregaron y por qué descartaron a las otras?
 
-    - Primero consideramos devolver numeros negativos, cero o positivos dependiendo del resultado del combate pero luego vimos que también hacia falta saber en que ronda termino por lo que vimos la necesidad de crear el concepto de Resultado y que el mismo contenga esa informacion. De esa manera el Resultado sabe quien gano y en que ronda termino.
+    - Primero consideramos devolver numeros negativos, cero o positivos dependiendo del resultado del combate. Luego vimos que también hacia falta saber en que ronda termino por lo que vimos la necesidad de crear el concepto de Resultado y que el mismo contenga esa informacion, como el nombre del equipo que gano o si fue indeterminado y la cantidad de rondas que pasaron hasta terminar el combate. De esa manera el Resultado sabe quien gano y en que ronda termino.
         - Consideramos unicamente el devolver un numero para resultado al finalizar el combate, pero no era viable y descartamos esa opcion quedandonos con la de crear el concepto de Resultado y que así contenga toda la informacio necesaria al mismo tiempo que los mensajes
