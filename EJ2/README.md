@@ -4,8 +4,8 @@
 
 En los test 01 y 02 hay código repetido. Cuando lo extrajeron crearon algo nuevo. Eso es algo que estaba en la realidad y no estaba representado en nuestro código, por eso teníamos código repetido. ¿Cuál es esa entidad de la realidad que crearon?
 
-R1: 
-- La verificacion del tiempo que demora una accion en un mensaje para calcular lo necesario.
+R1:
+- Un mensaje para calcular lo necesario en la verificacion del tiempo que demora una accion en el libro de clientes 
 
 
 ## Cómo representar en Smalltalk
