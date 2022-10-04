@@ -13,9 +13,9 @@ R:
 Con lo que vieron y saben hasta ahora, ¿donde les parece mejor tener la lógica de cómo instanciar un objeto? ¿por qué? ¿Y si se crea ese objeto desde diferentes lugares y de diferentes formas? ¿cómo lo resuelven?
 
 R: 
-- En un mensaje de clase: initialize
+- En el initialize de la clase
 - Por que de esa manera se centraliza la logica en un solo lugar antes de instanciar el objeto
-- ?
+- Delegando la responsabilidad de instanciar el objeto a las subclases correspondientes
 
 <br>
 
